@@ -24,12 +24,11 @@ different than setting it up on another.
 
 ### Windows Subsystem for Linux (WSL)
 
-In order to work around some of the differences between machines, and
-specifically between operating systems, we recommend that all students whose
-computers come pre-installed with the Windows operating system use a tool called
-**Windows Subsystem for Linux (WSL)**. Windows Subsystem for Linux provides a
-Linux-based environment for interfacing with and developing on a Windows
-operating system.
+To work around some of the differences between machines, and specifically
+between operating systems, we recommend that all students whose computers come
+pre-installed with the Windows operating system use a tool called **Windows
+Subsystem for Linux (WSL)**. Windows Subsystem for Linux provides a Linux-based
+environment for interfacing with and developing on a Windows operating system.
 
 **Linux** is a family of operating systems that share the same core operating
 system programs. Operating systems based on Linux are very commonly used in
@@ -63,7 +62,7 @@ many non-technical computer users.
 Before graphical user interfaces (GUIs), the way to tell the computer to do
 something was through a **terminal**. The terminal included a screen, which
 would display only text, and a keyboard. The screen and keyboard were connected
-to a computer and you type into the keyboard what you wanted the computer to do.
+to a computer, and you type into the keyboard what you wanted the computer to do.
 Then, you press `<Enter>` and would wait for the computer to finish.
 
 Terminals are still used frequently today, especially in software development.
@@ -82,15 +81,15 @@ Before we get to **bash**, however, we need to do some work in the "Command
 Prompt", which is the built-in shell on Windows computers.
 
 The "Command Prompt" application is a text-based way to browse and work with
-files on your computer. We will only be using the "Command Prompt" application
+your computer files. We will only be using the "Command Prompt" application
 at the beginning of the environment setup. For now, let's start to see what
 "Command Prompt" and more generally, **shell**s can do.
 
 ## Action Items: View Your Desktop in "File Explorer" and "Command Prompt" Applications
 
-In order to complete the environment setup, you will need to be able to open
+To complete the environment setup, you will need to be able to open
 applications. You can open new applications by using the search bar at the
-bottom of your screen. The search bar says "Type here to search".
+bottom of your screen. The search bar says, "Type here to search".
 
 ### View Your Desktop in the "File Explorer"
 
@@ -138,7 +137,7 @@ a terminal to be able to complete the environment setup.
 * During the environment setup, you will be spending a lot of time in the
   "Ubuntu" application.
 * As much as possible, copy and paste commands that we ask you to run there
-  instead of typing by hand, to try to prevent environment setup issues.
+  instead of typing by hand to help prevent environment setup issues.
 * Specific keys that you need to press will be surrounded by  `<` `>` (for
   example, `<Shift>`, `<Space>`, `<Enter>`).
 * You will need to be comfortable switching between windows; we will primarily
