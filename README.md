@@ -1,4 +1,4 @@
-# Environment Setup
+# Introduction to Windows Subsystem for Linux (WSL2) Environment Setup
 
 In this module, we will walk through the process of setting up your Windows 10
 local development environment.
