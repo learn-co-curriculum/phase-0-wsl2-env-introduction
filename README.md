@@ -11,7 +11,7 @@ A **software environment** describes the set of tools that work together to enab
 
 ### Comparing environments with machines
 
-You may hear us use the term "software environment" and "machine" to mean similar things. A **machine** describes the physical hardware that your software environment runs on. You'll hear the term machine and computer used interchangeably. Different machines (like PCs and Macs) use different hardware to run the programs that they use. Differences in those machines mean that setting up your development environmnent on one type of machine could look much different than setting it up on another.
+You may hear us use the term "software environment" and "machine" to mean similar things. A **machine** describes the physical hardware that your software environment runs on. You'll hear the term machine and computer used interchangeably. Different machines (like PCs and Macs) use different hardware to run the programs that they use. Differences in those machines mean that setting up your development environment on one type of machine could look much different than setting it up on another.
 
 ### Windows Subsystem for Linux (WSL)
 
