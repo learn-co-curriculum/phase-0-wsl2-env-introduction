@@ -121,6 +121,8 @@ environment setup on your own.
 
 ### Check Your Work
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ylMhORbzGNg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 If you were able to open your desktop in the "File Explorer" application and you
 were able to open the "Command Prompt" application and `cd` to your desktop in
 that application, you should see that you can see the same list of files in both
