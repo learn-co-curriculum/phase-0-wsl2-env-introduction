@@ -3,6 +3,9 @@
 In this module, we will walk through the process of setting up your Windows 10
 local development environment.
 
+> **Note:** If you are not using a Windows computer for this course, skip the
+> lessons in this module.
+
 ## Brief History
 
 ### Understanding Environments
