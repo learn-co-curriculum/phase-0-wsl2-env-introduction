@@ -103,7 +103,7 @@ documents, pictures, music, videos, and much more.
 
 1. Click on the "Start" menu search bar
 2. Type "File Explorer" and open the application
-3. Find and open the "Desktop" folder in your "File Explorer"
+3. Find and open the "OneDrive" folder located on the left-hand side in your "File Explorer"
 
 ### View Your Desktop in the "Command Prompt" Shell
 
@@ -112,28 +112,28 @@ with our computer through a shell. This action item is to primarily get you
 comfortable running commands in _any_ shell so that you can work through the
 environment setup on your own.
 
-1. Open the "Command Prompt" application using the "Start" menu
-2. Type `cd /Users` into the terminal and press `<Enter>`
-3. Type `dir` into the terminal and press `<Enter>`
-4. Look for your username in the list
-5. Type `cd` into the terminal, add a space, and type your name as it appears in the list and press `<Enter>`
-6. Type `dir` into the terminal and press `<Enter>`
-7. Look for the "Desktop" folder in the list
-8. Type `cd Desktop` into the terminal and press `<Enter>`
-9. Type `dir` into the terminal and press `<Enter>`
+1. Click on the "Start" menu search bar
+2. Type "Command Prompt" and open the application
+3. Type `cd /Users` into the terminal and press `<Enter>`
+4. Type `dir` into the terminal and press `<Enter>`
+5. Look for your username in the list
+6. Type `cd` into the terminal, add a space, and type your name as it appears in the list and press `<Enter>`
+7. Type `dir` into the terminal and press `<Enter>`
+8. Look for the "OneDrive" folder in the list
+9. Type `cd OneDrive` into the terminal and press `<Enter>`
+10. Type `dir` into the terminal and press `<Enter>`
 
 ### Check Your Work
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ylMhORbzGNg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-If you were able to open your desktop in the "File Explorer" application and you
-were able to open the "Command Prompt" application and `cd` to your desktop in
-that application, you should see that you can see the same list of files in both
-the **graphical user interface (GUI)** and in the **command-line interface
-(CLI)** or shell.
+If you were able to open your OneDrive folder in the "File Explorer" application and you
+were able to open the "Command Prompt" application and `cd` to the same folder, 
+you should see the same list of files and folders in both the **graphical user interface (GUI)** 
+and in the **command-line interface (CLI)** or shell.
 
 This may be your first time using the "Command Prompt" or any terminal or shell.
-Now you know how to see the items on your desktop through the "File Explorer"
+Now you know how to see the items in a particular folder through the "File Explorer"
 _and_ through the "Command Prompt". This step is to get you familiar with using
 a terminal to be able to complete the environment setup.
 
