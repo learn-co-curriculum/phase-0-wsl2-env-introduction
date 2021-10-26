@@ -65,8 +65,8 @@ many non-technical computer users.
 Before graphical user interfaces (GUIs), the way to tell the computer to do
 something was through a **terminal**. The terminal included a screen, which
 would display only text, and a keyboard. The screen and keyboard were connected
-to a computer, and you type into the keyboard what you wanted the computer to do.
-Then, you press `<Enter>` and would wait for the computer to finish.
+to a computer, and you would type into the keyboard what you wanted the computer
+to do. Then, you would press `<Enter>` and wait for the computer to finish.
 
 Terminals are still used frequently today, especially in software development.
 We can connect to another computer on the internet, give it instructions by
@@ -86,7 +86,7 @@ Prompt", which is the built-in shell on Windows computers.
 The "Command Prompt" application is a text-based way to browse and work with
 your computer files. We will only be using the "Command Prompt" application
 at the beginning of the environment setup. For now, let's start to see what
-"Command Prompt" and more generally, **shell**s can do.
+"Command Prompt" and, more generally, **shell**s can do.
 
 ## Action Items: View Your Desktop in "File Explorer" and "Command Prompt" Applications
 
@@ -109,7 +109,7 @@ documents, pictures, music, videos, and much more.
 ### View Your Desktop in the "Command Prompt" Shell
 
 The "Command Prompt" application is the terminal that will allow us to interface
-with our computer through a shell. This action item is to primarily get you
+with our computer through a shell. This action item is primarily to get you
 comfortable running commands in _any_ shell so that you can work through the
 environment setup on your own.
 
