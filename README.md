@@ -65,8 +65,8 @@ many non-technical computer users.
 Before graphical user interfaces (GUIs), the way to tell the computer to do
 something was through a **terminal**. The terminal included a screen, which
 would display only text, and a keyboard. The screen and keyboard were connected
-to a computer, and you type into the keyboard what you wanted the computer to do.
-Then, you press `<Enter>` and would wait for the computer to finish.
+to a computer, and you would type into the keyboard what you wanted the computer
+to do. Then, you would press `<Enter>` and wait for the computer to finish.
 
 Terminals are still used frequently today, especially in software development.
 We can connect to another computer on the internet, give it instructions by
@@ -86,7 +86,7 @@ Prompt", which is the built-in shell on Windows computers.
 The "Command Prompt" application is a text-based way to browse and work with
 your computer files. We will only be using the "Command Prompt" application
 at the beginning of the environment setup. For now, let's start to see what
-"Command Prompt" and more generally, **shell**s can do.
+"Command Prompt" and, more generally, **shell**s can do.
 
 ## Action Items: View Your Desktop in "File Explorer" and "Command Prompt" Applications
 
@@ -103,12 +103,13 @@ documents, pictures, music, videos, and much more.
 
 1. Click on the "Start" menu search bar
 2. Type "File Explorer" and open the application
-3. Find and open the "OneDrive" folder located on the left-hand side in your "File Explorer"
+3. Find and open the "Desktop" folder located on the left-hand side in your
+   "File Explorer"
 
 ### View Your Desktop in the "Command Prompt" Shell
 
 The "Command Prompt" application is the terminal that will allow us to interface
-with our computer through a shell. This action item is to primarily get you
+with our computer through a shell. This action item is primarily to get you
 comfortable running commands in _any_ shell so that you can work through the
 environment setup on your own.
 
@@ -117,20 +118,22 @@ environment setup on your own.
 3. Type `cd /Users` into the terminal and press `<Enter>`
 4. Type `dir` into the terminal and press `<Enter>`
 5. Look for your username in the list
-6. Type `cd` into the terminal, add a space, and type your name as it appears in the list and press `<Enter>`
+6. Type `cd` into the terminal, add a space, and type your name as it appears in
+   the list and press `<Enter>`
 7. Type `dir` into the terminal and press `<Enter>`
-8. Look for the "OneDrive" folder in the list
-9. Type `cd OneDrive` into the terminal and press `<Enter>`
+8. Look for the "Desktop" folder in the list
+9. Type `cd Desktop` into the terminal and press `<Enter>`
 10. Type `dir` into the terminal and press `<Enter>`
 
 ### Check Your Work
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ylMhORbzGNg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gLtUXeP2T50" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-If you were able to open your OneDrive folder in the "File Explorer" application and you
-were able to open the "Command Prompt" application and `cd` to the same folder, 
-you should see the same list of files and folders in both the **graphical user interface (GUI)** 
-and in the **command-line interface (CLI)** or shell.
+If you were able to open your Desktop folder in the "File Explorer" application
+and you were able to open the "Command Prompt" application and `cd` to the same
+folder, you should see the same list of files and folders in both the
+**graphical user interface (GUI)** and in the **command-line interface (CLI)**
+or shell.
 
 This may be your first time using the "Command Prompt" or any terminal or shell.
 Now you know how to see the items in a particular folder through the "File Explorer"
@@ -139,13 +142,13 @@ a terminal to be able to complete the environment setup.
 
 ## Preparing for Your Environment Setup
 
-* During the environment setup, you will be spending a lot of time in the
+- During the environment setup, you will be spending a lot of time in the
   "Ubuntu" application.
-* As much as possible, copy and paste commands that we ask you to run there
+- As much as possible, copy and paste commands that we ask you to run there
   instead of typing by hand to help prevent environment setup issues.
-* Specific keys that you need to press will be surrounded by  `<` `>` (for
+- Specific keys that you need to press will be surrounded by `<` `>` (for
   example, `<Shift>`, `<Space>`, `<Enter>`).
-* You will need to be comfortable switching between windows; we will primarily
+- You will need to be comfortable switching between windows; we will primarily
   be using the browser and the "Ubuntu" application.
-* You should be able to start and stop the environment setup.
-* If you get stuck, reach out to your classmates or an instructor.
+- You should be able to start and stop the environment setup.
+- If you get stuck, reach out to your classmates or an instructor.
