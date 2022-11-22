@@ -8,3 +8,7 @@
   :course_id: 4430
   :canvas_url: https://learning.flatironschool.com/courses/4430/pages/117782
   :type: page
+- :id: 233791
+  :course_id: 6602
+  :canvas_url: https://learning.flatironschool.com/courses/6602/pages/introduction-to-windows-subsystem-for-linux-wsl2-environment-setup
+  :type: page
